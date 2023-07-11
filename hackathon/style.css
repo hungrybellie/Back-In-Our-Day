@@ -1,0 +1,105 @@
+html {
+    background-color: #f2e9e4;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+    color: #22223b;
+    font-family: 'Podkova', serif;
+}
+
+h2 {
+    color: #22223b;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-family: 'Podkova', serif;
+}
+
+h3 {
+    color: #22223b;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-family: 'Podkova', serif;
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #22223b;
+    text-align: center;
+    font-family: 'Podkova', serif;
+}
+
+a[href*="care.html"] {
+    font-family: 'Podkova', serif;
+    text-decoration: none;
+    color: #f7f7f2;
+}
+
+a[href*="friends.html"] {
+    font-family: 'Podkova', serif;
+    text-decoration: none;
+    color: #f7f7f2;
+}
+
+a[href*="community.html"] {
+    font-family: 'Podkova', serif;
+    text-decoration: none;
+    color: #f7f7f2;
+}
+
+a[href*="volunteer.html"] {
+    font-family: 'Podkova', serif;
+    text-decoration: none;
+    color: #f7f7f2;
+}
+
+a[href*="index.html"] {
+    font-family: 'Podkova', serif;
+    text-decoration: none;
+    color: #f7f7f2;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #f7f7f2;
+}
+a:focus {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #faf9f9;
+}
+
+.text-center {
+    text-align: center;
+    
+}
+
+.map {
+    text-align: center;
+}
+
+.ageRange {
+    text-align: center;
+}
